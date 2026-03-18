@@ -42,9 +42,12 @@ I am interested in:
 - Used **ESP32-S3** with the **MPU6050 sensor** to measure **pitch, roll, and yaw**.
 - Analyzed balance data to evaluate athletic performance and stability.
 
-### Audio Equalizer
-- Designed a **signal processing system** to control and enhance audio frequencies.
-- Implemented filtering techniques to adjust and balance sound signals.
+### FT Image Mixer
+- Developed an **interactive image mixing application** based on **Fourier Transform (FT)** concepts.
+- Allows users to mix **Magnitude, Phase, Real, and Imaginary components** from multiple images.
+- Implemented **inner and outer frequency masking** to control the contribution of frequency components.
+- Provides **real-time visualization** of the resulting mixed image.
+- Built with **Python and image processing techniques** to demonstrate frequency-domain image manipulation.
 
 ---
 
